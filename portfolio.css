@@ -65,7 +65,7 @@ small {
 .skills {
     width: 3rem;
     height: 25rem;
-    background-color: gold;
+    background-color: rgb(22, 49, 114);
     place-content: center;
     margin: 0 0.5rem 0 0.25rem;
     border-radius: 15%;
@@ -74,35 +74,35 @@ small {
 .hobbies {
     width: 3rem;
     height: 25rem;
-    background-color: hsl(129, 100%, 50%);
+    background-color: hsl(129, 87%, 15%);
     place-content: center;
     margin: 0 0.5rem 0 0.25rem;
     border-radius: 15%;
     
+    
 }
 
-.btn {
+/* .btn {
     background-color: aqua;
     height: fit-content;
     margin: auto;
     border-radius: 15%;
-}
+} */
 
-.btn a {
+ .about a {
     text-decoration: none;
     font-size: 2rem;
     font-family: cursive;
-    color: black;
+    color: white;
+    margin: auto;
     
 }
 
 
-
-.btn a:visited {
-    color: black;
+.about a:visited {
+    color: white;
 }
 
-.btn a:hover {
-    color: rgb(251, 7, 7);
+.about a:hover {
+    color: aqua;
 }
-
