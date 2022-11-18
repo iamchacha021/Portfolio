@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #444;
+    color: whitesmoke;
+    font-size: 3rem;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 1rem;
+}
+
+/* body hr {
+    color: aliceblue;
+} */
+
+
+p a {
+    color: whitesmoke;
+}
+
+p a:hover {
+    color: aquamarine;
+}
+
+p a:visited {
+    color: whitesmoke;
+}
